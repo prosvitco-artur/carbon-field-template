@@ -1,5 +1,5 @@
 {
-    "name": "htmlburger/carbon-field-YOURFIELDNAME",
+    "name": "htmlburger/carbon-field-yourfieldname",
     "description": "Carbon Fields extension, that adds a YOURFIELDNAME field type.",
     "keywords": ["wordpress", "carbon-field", "carbon-field-YOURFIELDNAME"],
     "homepage": "http://yourhomepage.example.com",
